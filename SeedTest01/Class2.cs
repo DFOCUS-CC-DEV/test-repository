@@ -8,5 +8,9 @@ namespace SeedTest01
 {
     class Class2
     {
+
+
+
+
     }
 }
